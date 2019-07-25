@@ -1,0 +1,4 @@
+#Wed Jul 24 22:42:00 IST 2019
+base.0=/home/baradwaj/AndroidStudioProjects/tasko_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
